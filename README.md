@@ -1,1 +1,3 @@
 # TATA-Forage
+
+I'm excited to share that I’ve completed a virtual internship with the Tata Group through Forage on **Data Visualization: Empowering Business with Effective Insights**! 📊 This hands-on experience taught me how to analyze business needs, choose the most impactful visualizations, and derive actionable insights from data. I gained practical knowledge in creating meaningful dashboards and translating raw data into business decisions. A big thank you to Forage for offering such a valuable opportunity to work on real-world projects and develop my data analysis skills. Grateful for this enriching learning journey and excited to apply these insights in future roles! 
